@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 [![release-badge](https://img.shields.io/github/v/release/AtharvNadkarni2013/rock-paper-scissors)](https://github.com/AtharvNadkarni2013/rock-paper-scissors/releases/tag/v1.0.0)
-[![file-size-badge](https://badge-size.herokuapp.com/AtharvNadkarni2013/rock=paper-scissors/master/rockpaperscissors.py)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
+[![file-size-badge](https://badge-size.herokuapp.com/AtharvNadkarni2013/rock=paper-scissors/main/rockpaperscissors.py)](https://badge-size.herokuapp.com/AtharvNadkarni2013/rock=paper-scissors/main/rockpaperscissors.py)
 [![fork-badge](https://img.shields.io/github/forks/AtharvNadkarni2013/rock-paper-scissors.svg?style=social&label=Fork&maxAge=91832302302830)](https://GitHub.com/AtharvNadkarni2013/rock-paper-scissors/network/)
 [![star-badge](https://img.shields.io/github/stars/AtharvNadkarni2013/rock-paper-scissors.svg?style=social&label=Star&maxAge=91832302302830)](https://GitHub.com/AtharvNadkarni2013/rock-paper-scissors/network/)
 
